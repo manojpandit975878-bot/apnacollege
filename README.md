@@ -1,2 +1,3 @@
-# apnacollege
+# apnacollege-demo
 this is my first git repository.
+Author - Sagar sharma
